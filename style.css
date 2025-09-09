@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Keyboard&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1{
+    margin: 400;
+    padding: 400;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    
+}
+
+q1{ 
+    margin: 400;
+    padding: 400;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    font-size: x-large;
+    
+
+
+}
+
+p2{
+    margin: 400;
+    padding: 400;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    font-size:x-large
+
+}
+
+h2{
+    margin: 400;
+    padding: 400;
+    box-sizing: border-box;
+    box-sizing: content-box;
+    font-size: medium;
+    border: 2px solid rgb(127, 255, 109)
+
+
+}
+
+*{
+    margin: 100;
+    padding: 100;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+body{
+    background-color: #1d1d3f;
+    color: rgb(202, 197, 197) ;
+    font-family: "Montserrat", serif;
+    font-weight: 300;
+}
+
+header{
+    color:greenyellow;
+    background-color: darkolivegreen;
+    padding : 2rem;
+    border: 2px solid rgb(0, 0, 0)
+    
+}
+
+a{color: greenyellow }
+    
